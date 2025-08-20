@@ -5,7 +5,7 @@ This repository contains Jupyter notebooks for analyzing the **post-pandemic eff
 ## Files
 
 - `data_analysis.ipynb` – Core data analysis notebook (data cleaning, visualization, descriptive statistics).
-- `post_pandemic_effects2025.ipynb` – Focused analysis on the effects observed in 2025.
+- `post_pandemic_effects2025.ipynb` – Focused analysis on the effects observed in 2025 (source: https://www.kaggle.com/datasets/kshitijsaini121/remote-work-of-health-impact-survey-june-2025/data)
 
 ## Requirements
 
